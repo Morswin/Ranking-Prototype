@@ -5,12 +5,7 @@ This is my attempt at creating a ranking display, for my own purpouses.
 Chosen tech-stack: *Ts*, *Vite*, *Vitest*, *Vue*, *Vuetify*
 
 ## TODO:
-- [ ] (60%) Setup all tooling
-  - [x] TS
-  - [x] Vite
-  - [ ] Vitest
-  - [x] Vue
-  - [x] Vuetify
+- [x] Setup all tooling
 - [x] Create and all views + routing
   - [x] Landing page
     - Options to open empty ranking score board or prepopulated with mock data
