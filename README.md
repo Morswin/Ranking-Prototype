@@ -10,7 +10,7 @@ Chosen tech-stack: *Ts*, *Vite*, *Vitest*, *Vue*, *Vuetify*
   - [x] Vite
   - [ ] Vitest
   - [x] Vue
-  - [ ] Vuetify
+  - [x] Vuetify
 - [x] Create and all views + routing
   - [x] Landing page
     - Options to open empty ranking score board or prepopulated with mock data
