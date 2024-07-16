@@ -7,14 +7,12 @@ Chosen tech-stack: *Ts*, *Vite*, *Vitest*, *Vue*, *Vuetify*
 ## TODO:
 - [x] Setup all tooling
 - [x] Create and all views + routing
-  - [x] Landing page
-    - Options to open empty ranking score board or prepopulated with mock data
-  - [x] Ranking View
-  - [x] Options View
-    - Here user will be able to adjust things like what columns should be displayed in the ranking table and so on
 - [ ] Prepare mock data
+  - [ ] Prepare data types, interfaces and classes
+  - [ ] Add functionality of fetching data from some nice outside source
 - [ ] Add expected functionality
 - [ ] Stylize it all
   - [x] Views have some basic layout in place
+  - [ ] Add dark mode and high contrast mode
 - [ ] Write tests
 - [ ] Conclusion
