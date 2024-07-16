@@ -1,6 +1,10 @@
+<script setup lang="ts">
+import Navbar from "../components/Navbar.vue";
+</script>
+
 <template>
     <v-app>
-        <v-app-bar></v-app-bar>
+        <Navbar></Navbar>
         <v-main class="d-flex justify-center flex-column align-center">
             <h1>Landing Page</h1>
             <RouterLink to="/ranking">

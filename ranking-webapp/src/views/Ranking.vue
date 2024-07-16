@@ -1,10 +1,14 @@
+<script setup lang="ts">
+import Navbar from "../components/Navbar.vue";
+</script>
+
 <template>
     <v-app>
-        <v-app-bar>
+        <Navbar>
             <RouterLink to="/options">
                 <v-btn>Options</v-btn>
             </RouterLink>
-        </v-app-bar>
+        </Navbar>
         <v-main class="d-flex justify-center flex-column align-center">
             <h1>Ranking</h1>
         </v-main>
