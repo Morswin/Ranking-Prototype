@@ -15,5 +15,6 @@ Chosen tech-stack: *Ts*, *Vite*, *Vitest*, *Vue*, *Vuetify*
 - [ ] Prepare mock data
 - [ ] Add expected functionality
 - [ ] Stylize it all
+  - [x] Views have some basic layout in place
 - [ ] Write tests
 - [ ] Conclusion
